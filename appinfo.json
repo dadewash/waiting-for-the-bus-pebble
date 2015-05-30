@@ -1,0 +1,92 @@
+{
+  "uuid": "1f1418d8-5a48-42b5-ac54-ee2a73e26b93",
+  "shortName": "Bus",
+  "longName": "Waiting for the Bus",
+  "companyName": "Davide Merzi, Davide Salmaso",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_LOGO_SPLASH",
+        "file": "images/logo_splash.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_TILE_SPLASH",
+        "file": "images/tile_splash.png"
+      },
+      {
+        "type": "png",
+        "name": "STOPS_NEARBY",
+        "file": "images/pin2.png"
+      },
+      {
+        "type": "png",
+        "name": "SMART_STOPS",
+        "file": "images/lamp.png"
+      },
+      {
+        "type": "png",
+        "name": "STTINGS",
+        "file": "images/settings.png"
+      },
+      {
+        "type": "png",
+        "name": "TRASH",
+        "file": "images/cestino.png"
+      },
+      {
+        "type": "png",
+        "name": "SET_RANGE",
+        "file": "images/range.png"
+      },
+      {
+        "type": "png",
+        "name": "LIST_CHECK_IN",
+        "file": "images/lista.png"
+      },
+      {
+        "type": "png",
+        "name": "CIRCLE_PIENO",
+        "file": "images/circle_pieno.png"
+      },
+      {
+        "type": "png",
+        "name": "CIRCLE_VUOTO",
+        "file": "images/circle_vuoto.png"
+      },
+      {
+        "type": "png",
+        "name": "LOADING_CARD",
+        "file": "images/loading_card.png"
+      },
+      {
+        "type": "png",
+        "name": "CHECK_IN_CARD",
+        "file": "images/check_in_card.png"
+      },
+      {
+        "type": "font",
+        "name": "MONO_FONT_14",
+        "file": "fonts/Menlo-Regular.ttf"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
